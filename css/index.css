@@ -1,0 +1,53 @@
+.nav{
+    background-color: lightgray;
+}
+.wrapper{
+    height: 500px;
+    background-color: beige;
+}
+.navItem{
+    background-color: darkgray;
+    display: inline-block;
+    padding: 20px;
+    width: 60px;
+    text-align: center;
+}
+.left{
+    width: 29%;
+    height: 100%;
+    float: left;
+}
+.right{
+    width: 70%;
+    height: 100%;
+}
+.profile p{
+    margin: 8px;
+}
+.profile{
+    background-color: burlywood;
+    height: 110px;
+    text-align: center;
+    padding: 20 px;
+}
+.profile img{
+    width: 80px;
+    border-radius: 50%;
+}
+.stats{
+    background-color: cornflowerblue;
+    height: 310px;
+    padding:20px;
+}
+.stats h3{
+    margin-top: 0;
+}
+.stats ul{
+    list-style-type: none;
+    background-color: darkkhaki;
+}
+.hero{
+    height: 240 px;
+    background-color: gainsboro;
+    margin: 20px;
+}
